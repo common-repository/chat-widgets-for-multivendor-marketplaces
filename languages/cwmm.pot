@@ -1,0 +1,267 @@
+# Copyright (C) 2022 cwm
+# This file is distributed under the same license as the cwm package.
+msgid ""
+msgstr ""
+"Project-Id-Version: cwm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-08 16:33+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/base.php:85, includes/class-admin.php:58
+msgid "Settings"
+msgstr ""
+
+#: includes/base.php:91
+msgid "GET PRO"
+msgstr ""
+
+#: includes/class-admin.php:40, includes/class-admin.php:40, includes/class-hooks.php:116, includes/class-hooks.php:138
+msgid "Chat Widgets"
+msgstr ""
+
+#: includes/class-admin.php:47, includes/class-admin.php:48
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-admin.php:57
+msgid "Settings - Chat widgets"
+msgstr ""
+
+#: includes/class-admin.php:66
+msgid "Get started - Chat widgets"
+msgstr ""
+
+#: includes/class-admin.php:66
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-admin.php:96
+msgid "Get PRO - Chat widgets for multivendor marketplaces"
+msgstr ""
+
+#: includes/class-hooks.php:116
+msgid "Store"
+msgstr ""
+
+#: includes/class-rest-api-controller.php:91
+msgid "successfully disabled widgets of vendors"
+msgstr ""
+
+#: includes/class-rest-api-controller.php:195
+msgid "You do not have access to this resource ."
+msgstr ""
+
+#: includes/views/recommended-plugins.php:308
+msgctxt "cwmm"
+msgid "Cannot Install"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:301
+msgctxt "cwmm"
+msgid "Install %s now"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:303
+msgid "Install Now"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:330
+msgctxt "cwmm"
+msgid "Cannot Update"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:323
+msgctxt "cwmm"
+msgid "Update %s now"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:325
+msgid "Update Now"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:372
+msgctxt "cwmm"
+msgid "Installed"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:344
+msgid "Activate"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:346
+msgctxt "cwmm"
+msgid "Activate %s"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:357
+msgid "Network Activate"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:359
+msgctxt "cwmm"
+msgid "Network Activate %s"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:341
+msgctxt "cwmm"
+msgid "Active"
+msgstr ""
+
+#. translators: %s: Plugin name and version.
+#: includes/views/recommended-plugins.php:388
+msgid "More information about %s"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:390
+msgid "More Details"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:454
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr ""
+
+#. translators: %s: URL to Update PHP page.
+#: includes/views/recommended-plugins.php:458, includes/views/recommended-plugins.php:439
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr ""
+
+#: includes/views/recommended-plugins.php:445
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr ""
+
+#: includes/views/recommended-plugins.php:449, includes/views/recommended-plugins.php:433
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr ""
+
+#: includes/views/recommended-plugins.php:421
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr ""
+
+#: includes/views/recommended-plugins.php:425
+msgid "<a href=\"%1$s\">Please update WordPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
+msgstr ""
+
+#: includes/views/recommended-plugins.php:489
+msgid "By %s"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:506
+msgid "Last Updated:"
+msgstr ""
+
+#. translators: %s: Human-readable time difference.
+#: includes/views/recommended-plugins.php:509
+msgid "%s ago"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:522
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:518
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of installations.
+#: includes/views/recommended-plugins.php:527
+msgid "%s Active Installations"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:537
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:535
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:533
+msgid "Untested with your version of WordPress"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:547
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/views/recommended-plugins.php:548
+msgid "If you hide the recommended plugins page from your menu, it won't appear there again. Are you sure you'd like to do it?"
+msgstr ""
+
+#: includes/views/settings-page.php:23
+msgid "Chat Widget Settings"
+msgstr ""
+
+#: includes/views/settings-page.php:61
+msgid "Show Default Widget"
+msgstr ""
+
+#: includes/views/settings-page.php:71
+msgid "Show default widget created by admin if vendor doesn’t have one"
+msgstr ""
+
+#: includes/views/settings-page.php:81
+msgid "Allow Vendor Customization"
+msgstr ""
+
+#: includes/views/settings-page.php:91
+msgid "If enabled vendor can customize his own chat widget"
+msgstr ""
+
+#: includes/views/settings-page.php:101
+msgid "Allow Vendor Triggers"
+msgstr ""
+
+#: includes/views/settings-page.php:111
+msgid "If enabled vendor can set his own trigger to show widget"
+msgstr ""
+
+#: includes/views/settings-page.php:121
+msgid "Disable All Multivendor Widgets"
+msgstr ""
+
+#: includes/views/settings-page.php:131
+msgid "If enabled then all vendor widget will be disabled"
+msgstr ""
+
+#: includes/views/settings-page.php:136
+msgid "Saved"
+msgstr ""
+
+#: includes/WPPOOL/Popup.php:27
+msgid "Deal Ends In"
+msgstr ""
+
+#: includes/WPPOOL/Popup.php:31
+msgid "Days"
+msgstr ""
+
+#: includes/WPPOOL/Popup.php:36
+msgid "Hours"
+msgstr ""
+
+#: includes/WPPOOL/Popup.php:41
+msgid "Minutes"
+msgstr ""
+
+#: includes/WPPOOL/Popup.php:46
+msgid "Seconds"
+msgstr ""
+
+#: includes/WPPOOL/Popup.php:52
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: plugin.php:16
+msgid "You can't access this page"
+msgstr ""
